@@ -1,0 +1,36 @@
+[
+	{"text": "start docker service", "label": "docker_service_start"},
+	{"text": "start docker", "label": "docker_service_start"},
+	
+	{"text": "stop docker service", "label": "docker_service_stop"},
+	{"text": "stop docker", "label": "docker_service_stop"},
+
+	{"text": "restart docker service", "label": "docker_service_restart"},
+	{"text": "restart docker", "label": "docker_service_restart"},
+
+	{"text": "start docker container", "label": "docker_container_start"},
+
+	{"text": "launch docker container", "label": "docker_container_run"},
+	{"text": "create docker container", "label": "docker_container_run"},
+	
+	{"text": "stop docker container", "label": "docker_container_stop"},
+	{"text": "delete docker container", "label": "docker_container_stop"},	
+	{"text": "remove docker container", "label": "docker_container_stop"},
+	
+	{"text": "restart docker container", "label": "docker_container_restart"},
+		
+	{"text": "add docker image", "label": "docker_image_add"},	
+
+	{"text": "delete docker image", "label": "docker_image_delete"},
+	{"text": "remove docker image", "label": "docker_image_delete"},
+	{"text": "delete docker image", "label": "docker_image_delete"},
+	
+	{"text": "show docker image", "label": "docker_image_show"},
+	{"text": "display docker image", "label": "docker_image_show"},			
+	{"text": "docker images", "label": "docker_image_show"},	
+
+       	{"text": "show docker container", "label": "docker_container_show"},
+       	{"text": "display docker container", "label": "docker_container_show"},
+       	{"text": "docker containers", "label": "docker_container_show"}
+		
+]

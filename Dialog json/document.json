@@ -1,0 +1,82 @@
+[
+	{"text": "hello", "label": "greetings"},
+	{"text": "hey there", "label": "greetings"},
+	{"text": "hi", "label": "greetings"},
+	{"text": "good morning", "label": "greetings"},	
+	{"text": "hello", "label": "greetings"},
+	
+    	{"text": "meaning of this word", "label": "word_definition"},
+    	{"text": "definition of word", "label": "word_definition"},
+    	{"text": "definition of this word", "label": "word_definition"},
+    	{"text": "give me the meaning of this", "label": "word_definition"},
+	{"text": "give me the definition of", "label": "word_definition"},
+	{"text": "this mean", "label": "word_definition"},
+	{"text": "meaning of this word", "label": "word_definition"},
+	{"text": "what is meaning of this word", "label": "word_definition"},
+	{"text": "what does this word mean", "label": "word_definition"},
+	{"text": "what it means", "label": "word_definition"},
+
+	
+	{"text": "find the emotion", "label": "sentiment_analysis"},
+	{"text": "analysis my sentance", "label": "sentiment_analysis"},
+	{"text": "is my sentence is positive or negative", "label": "sentiment_analysis"},	
+	{"text": "how i am feeling", "label": "sentiment_analysis"},
+	{"text": "find the emotion", "label": "sentiment_analysis"},	
+	{"text": "my feeling", "label": "sentiment_analysis"},
+	{"text": "am i happy", "label": "sentiment_analysis"},		
+	{"text": "am i sad", "label": "sentiment_analysis"},
+
+	{"text": "take a picture", "label": "photo"},	
+	{"text": "take a photo", "label": "photo"},
+	{"text": "take a pic", "label": "photo"},	
+	{"text": "take a image", "label": "photo"},
+	{"text": "click a picture", "label": "photo"},
+	{"text": "click a pic", "label": "photo"},
+	{"text": "open camera", "label": "photo"},	
+	{"text": "show camera", "label": "photo"},	
+	{"text": "take a picture of me", "label": "photo"},	
+	{"text": "click a picture", "label": "photo"},	
+	{"text": "please click picture of me", "label": "photo"},
+
+	{"text": "play video", "label": "video"},
+	{"text": "play  music video", "label": "video"},
+	{"text": "browse online video", "label": "video"},
+	{"text": "play online music video", "label": "video"},
+        
+	{"text": "search", "label": "search"},
+	{"text": "search online", "label": "search"},
+	{"text": "search for me", "label": "search"},
+	{"text": "today's temprature", "label": "search"},
+	{"text": "google search", "label": "search"},
+	
+
+	{"text": "help", "label": "help"},
+	{"text": "help me", "label": "help"},
+	{"text": "what services you provide", "label": "help"},
+	{"text": "list of your services", "label": "help"},
+	{"text": "show me the way", "label": "help"},
+	{"text": "list of your services", "label": "help"},
+
+	{"text": "god mode", "label": "sys"},
+	{"text": "power mode", "label": "sys"},
+	{"text": "admin mode", "label": "sys"},
+	{"text": "god mode", "label": "sys"},
+	
+	{"text": "devops mode", "label": "automation"},
+	{"text": "devops", "label": "automation"},
+	{"text": "automation", "label": "automation"},
+	{"text": "start devops mode", "label": "automation"},
+
+	{"text": "close", "label": "exit"},
+	{"text": "close now", "label": "exit"},
+	{"text": "exit", "label": "exit"},
+	{"text": "quit", "label": "exit"}
+	
+	
+
+
+	
+
+       
+		
+]
